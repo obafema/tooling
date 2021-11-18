@@ -75,3 +75,5 @@ Default web root:
 
 ## Testing change with Jenkins
 
+## Configure it to send all files probuced by the build into our previouslys define remote directory
+
